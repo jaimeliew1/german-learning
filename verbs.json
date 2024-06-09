@@ -1,0 +1,700 @@
+{
+    "verbs": [
+        {
+            "infinitive": [
+                "to go",
+                "gehen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I go",
+                    "gehe"
+                ],
+                "du": [
+                    "you go",
+                    "gehst"
+                ],
+                "er/sie/es": [
+                    "he/she/it goes",
+                    "geht"
+                ],
+                "wir": [
+                    "we go",
+                    "gehen"
+                ],
+                "ihr": [
+                    "you all go",
+                    "geht"
+                ],
+                "sie": [
+                    "they go",
+                    "gehen"
+                ]
+            },
+            "past_participle": [
+                "gone",
+                "gegangen"
+            ],
+            "examples": [
+                [
+                    "I go to work every day.",
+                    "Ich gehe jeden Tag zur Arbeit."
+                ],
+                [
+                    "You go hiking on the weekend.",
+                    "Du gehst am Wochenende wandern."
+                ],
+                [
+                    "He goes to the cinema.",
+                    "Er geht ins Kino."
+                ],
+                [
+                    "She has gone to the store.",
+                    "Sie ist zum Laden gegangen."
+                ],
+                [
+                    "We have gone to the park.",
+                    "Wir sind in den Park gegangen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to work",
+                "arbeiten"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I work",
+                    "arbeite"
+                ],
+                "du": [
+                    "you work",
+                    "arbeitest"
+                ],
+                "er/sie/es": [
+                    "he/she/it works",
+                    "arbeitet"
+                ],
+                "wir": [
+                    "we work",
+                    "arbeiten"
+                ],
+                "ihr": [
+                    "you all work",
+                    "arbeitet"
+                ],
+                "sie": [
+                    "they work",
+                    "arbeiten"
+                ]
+            },
+            "past_participle": [
+                "worked",
+                "gearbeitet"
+            ],
+            "examples": [
+                [
+                    "I work every day.",
+                    "Ich arbeite jeden Tag."
+                ],
+                [
+                    "You work on the weekends.",
+                    "Du arbeitest am Wochenende."
+                ],
+                [
+                    "He works at a bank.",
+                    "Er arbeitet bei einer Bank."
+                ],
+                [
+                    "He has worked a lot.",
+                    "Er hat viel gearbeitet."
+                ],
+                [
+                    "They have worked together.",
+                    "Sie haben zusammen gearbeitet."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to buy",
+                "kaufen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I buy",
+                    "kaufe"
+                ],
+                "du": [
+                    "you buy",
+                    "kaufst"
+                ],
+                "er/sie/es": [
+                    "he/she/it buys",
+                    "kauft"
+                ],
+                "wir": [
+                    "we buy",
+                    "kaufen"
+                ],
+                "ihr": [
+                    "you all buy",
+                    "kauft"
+                ],
+                "sie": [
+                    "they buy",
+                    "kaufen"
+                ]
+            },
+            "past_participle": [
+                "bought",
+                "gekauft"
+            ],
+            "examples": [
+                [
+                    "I buy groceries every week.",
+                    "Ich kaufe jede Woche Lebensmittel."
+                ],
+                [
+                    "You buy a lot of clothes.",
+                    "Du kaufst viele Kleider."
+                ],
+                [
+                    "She buys a new book.",
+                    "Sie kauft ein neues Buch."
+                ],
+                [
+                    "I have bought a new book.",
+                    "Ich habe ein neues Buch gekauft."
+                ],
+                [
+                    "You all have bought tickets.",
+                    "Ihr habt Tickets gekauft."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to sleep",
+                "schlafen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I sleep",
+                    "schlafe"
+                ],
+                "du": [
+                    "you sleep",
+                    "schläfst"
+                ],
+                "er/sie/es": [
+                    "he/she/it sleeps",
+                    "schläft"
+                ],
+                "wir": [
+                    "we sleep",
+                    "schlafen"
+                ],
+                "ihr": [
+                    "you all sleep",
+                    "schlaft"
+                ],
+                "sie": [
+                    "they sleep",
+                    "schlafen"
+                ]
+            },
+            "past_participle": [
+                "slept",
+                "geschlafen"
+            ],
+            "examples": [
+                [
+                    "I sleep eight hours every night.",
+                    "Ich schlafe jede Nacht acht Stunden."
+                ],
+                [
+                    "You sleep in the afternoon.",
+                    "Du schläfst am Nachmittag."
+                ],
+                [
+                    "She sleeps very well.",
+                    "Sie schläft sehr gut."
+                ],
+                [
+                    "I have slept well.",
+                    "Ich habe gut geschlafen."
+                ],
+                [
+                    "You have slept for eight hours.",
+                    "Du hast acht Stunden geschlafen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to give",
+                "geben"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I give",
+                    "gebe"
+                ],
+                "du": [
+                    "you give",
+                    "gibst"
+                ],
+                "er/sie/es": [
+                    "he/she/it gives",
+                    "gibt"
+                ],
+                "wir": [
+                    "we give",
+                    "geben"
+                ],
+                "ihr": [
+                    "you all give",
+                    "gebt"
+                ],
+                "sie": [
+                    "they give",
+                    "geben"
+                ]
+            },
+            "past_participle": [
+                "given",
+                "gegeben"
+            ],
+            "examples": [
+                [
+                    "I give you a gift.",
+                    "Ich gebe dir ein Geschenk."
+                ],
+                [
+                    "You give your time.",
+                    "Du gibst deine Zeit."
+                ],
+                [
+                    "He gives his best effort.",
+                    "Er gibt sein Bestes."
+                ],
+                [
+                    "We have given our time.",
+                    "Wir haben unsere Zeit gegeben."
+                ],
+                [
+                    "He has given a gift.",
+                    "Er hat ein Geschenk gegeben."
+                ],
+                [
+                    "I give you a gift.",
+                    "Ich gebe dir ein Geschenk."
+                ],
+                [
+                    "She has given him a book.",
+                    "Sie hat ihm ein Buch gegeben."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to eat",
+                "essen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I eat",
+                    "esse"
+                ],
+                "du": [
+                    "you eat",
+                    "isst"
+                ],
+                "er/sie/es": [
+                    "he/she/it eats",
+                    "isst"
+                ],
+                "wir": [
+                    "we eat",
+                    "essen"
+                ],
+                "ihr": [
+                    "you all eat",
+                    "esst"
+                ],
+                "sie": [
+                    "they eat",
+                    "essen"
+                ]
+            },
+            "past_participle": [
+                "eaten",
+                "gegessen"
+            ],
+            "examples": [
+                [
+                    "I eat an apple every day.",
+                    "Ich esse jeden Tag einen Apfel."
+                ],
+                [
+                    "You eat too fast.",
+                    "Du isst zu schnell."
+                ],
+                [
+                    "She eats a lot of vegetables.",
+                    "Sie isst viele Gemüse."
+                ],
+                [
+                    "She has eaten breakfast.",
+                    "Sie hat Frühstück gegessen."
+                ],
+                [
+                    "They have eaten dinner.",
+                    "Sie haben zu Abend gegessen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to see",
+                "sehen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I see",
+                    "sehe"
+                ],
+                "du": [
+                    "you see",
+                    "siehst"
+                ],
+                "er/sie/es": [
+                    "he/she/it sees",
+                    "sieht"
+                ],
+                "wir": [
+                    "we see",
+                    "sehen"
+                ],
+                "ihr": [
+                    "you all see",
+                    "seht"
+                ],
+                "sie": [
+                    "they see",
+                    "sehen"
+                ]
+            },
+            "past_participle": [
+                "seen",
+                "gesehen"
+            ],
+            "examples": [
+                [
+                    "I see the stars at night.",
+                    "Ich sehe die Sterne in der Nacht."
+                ],
+                [
+                    "You see the problem.",
+                    "Du siehst das Problem."
+                ],
+                [
+                    "She sees the opportunity.",
+                    "Sie sieht die Gelegenheit."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to wait",
+                "warten"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I wait",
+                    "warte"
+                ],
+                "du": [
+                    "you wait",
+                    "wartest"
+                ],
+                "er/sie/es": [
+                    "he/she/it waits",
+                    "wartet"
+                ],
+                "wir": [
+                    "we wait",
+                    "warten"
+                ],
+                "ihr": [
+                    "you all wait",
+                    "wartet"
+                ],
+                "sie": [
+                    "they wait",
+                    "warten"
+                ]
+            },
+            "past_participle": [
+                "waited",
+                "gewartet"
+            ],
+            "examples": [
+                [
+                    "I wait for the bus.",
+                    "Ich warte auf den Bus."
+                ],
+                [
+                    "You wait for your friend.",
+                    "Du wartest auf deinen Freund."
+                ],
+                [
+                    "She waits in the park.",
+                    "Sie wartet im Park."
+                ],
+                [
+                    "I have waited for the bus.",
+                    "Ich habe auf den Bus gewartet."
+                ],
+                [
+                    "You have waited for your friend.",
+                    "Du hast auf deinen Freund gewartet."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to get up",
+                "aufstehen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I get up",
+                    "stehe auf"
+                ],
+                "du": [
+                    "you get up",
+                    "stehst auf"
+                ],
+                "er/sie/es": [
+                    "he/she/it gets up",
+                    "steht auf"
+                ],
+                "wir": [
+                    "we get up",
+                    "stehen auf"
+                ],
+                "ihr": [
+                    "you all get up",
+                    "steht auf"
+                ],
+                "sie": [
+                    "they get up",
+                    "stehen auf"
+                ]
+            },
+            "past_participle": [
+                "gotten up",
+                "aufgestanden"
+            ],
+            "examples": [
+                [
+                    "I get up early.",
+                    "Ich stehe früh auf."
+                ],
+                [
+                    "You get up at seven.",
+                    "Du stehst um sieben auf."
+                ],
+                [
+                    "He gets up late.",
+                    "Er steht spät auf."
+                ],
+                [
+                    "I have gotten up early.",
+                    "Ich bin früh aufgestanden."
+                ],
+                [
+                    "You have gotten up at seven.",
+                    "Du bist um sieben aufgestanden."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to open",
+                "aufmachen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I open",
+                    "mache auf"
+                ],
+                "du": [
+                    "you open",
+                    "machst auf"
+                ],
+                "er/sie/es": [
+                    "he/she/it opens",
+                    "macht auf"
+                ],
+                "wir": [
+                    "we open",
+                    "machen auf"
+                ],
+                "ihr": [
+                    "you all open",
+                    "macht auf"
+                ],
+                "sie": [
+                    "they open",
+                    "machen auf"
+                ]
+            },
+            "past_participle": [
+                "opened",
+                "aufgemacht"
+            ],
+            "examples": [
+                [
+                    "I open the door.",
+                    "Ich mache die Tür auf."
+                ],
+                [
+                    "You open the window.",
+                    "Du machst das Fenster auf."
+                ],
+                [
+                    "She opens the book.",
+                    "Sie macht das Buch auf."
+                ],
+                [
+                    "I have opened the door.",
+                    "Ich habe die Tür aufgemacht."
+                ],
+                [
+                    "You have opened the window.",
+                    "Du hast das Fenster aufgemacht."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to close",
+                "zumachen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I close",
+                    "mache zu"
+                ],
+                "du": [
+                    "you close",
+                    "machst zu"
+                ],
+                "er/sie/es": [
+                    "he/she/it closes",
+                    "macht zu"
+                ],
+                "wir": [
+                    "we close",
+                    "machen zu"
+                ],
+                "ihr": [
+                    "you all close",
+                    "macht zu"
+                ],
+                "sie": [
+                    "they close",
+                    "machen zu"
+                ]
+            },
+            "past_participle": [
+                "closed",
+                "zugemacht"
+            ],
+            "examples": [
+                [
+                    "I close the door.",
+                    "Ich mache die Tür zu."
+                ],
+                [
+                    "You close the window.",
+                    "Du machst das Fenster zu."
+                ],
+                [
+                    "He closes the book.",
+                    "Er macht das Buch zu."
+                ],
+                [
+                    "I have closed the door.",
+                    "Ich habe die Tür zugemacht."
+                ],
+                [
+                    "You have closed the window.",
+                    "Du hast das Fenster zugemacht."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to understand",
+                "verstehen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I understand",
+                    "verstehe"
+                ],
+                "du": [
+                    "you understand",
+                    "verstehst"
+                ],
+                "er/sie/es": [
+                    "he/she/it understands",
+                    "versteht"
+                ],
+                "wir": [
+                    "we understand",
+                    "verstehen"
+                ],
+                "ihr": [
+                    "you all understand",
+                    "versteht"
+                ],
+                "sie": [
+                    "they understand",
+                    "verstehen"
+                ]
+            },
+            "past_participle": [
+                "understood",
+                "verstanden"
+            ],
+            "examples": [
+                [
+                    "I understand the question.",
+                    "Ich verstehe die Frage."
+                ],
+                [
+                    "You understand the lesson.",
+                    "Du verstehst die Lektion."
+                ],
+                [
+                    "She understands the problem.",
+                    "Sie versteht das Problem."
+                ],
+                [
+                    "I have understood the question.",
+                    "Ich habe die Frage verstanden."
+                ],
+                [
+                    "You have understood the lesson.",
+                    "Du hast die Lektion verstanden."
+                ]
+            ]
+        }
+    ]
+}
