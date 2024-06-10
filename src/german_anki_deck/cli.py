@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import genanki
+from rich import print
 
 from .models import GermanVerbs
 
@@ -12,6 +13,9 @@ def make_deck():
         data = f.read()
 
     german_verbs = GermanVerbs.model_validate_json(data)
+    verb_list = [verb.infinitive[1] for verb in german_verbs.verbs]
+    print(f"Generating Anki deck for the following {len(verb_list)} verbs:")
+    print(verb_list)
 
     my_deck = genanki.Deck(2059400110, "German verbs")
 

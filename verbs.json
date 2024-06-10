@@ -695,6 +695,838 @@
                     "Du hast die Lektion verstanden."
                 ]
             ]
+        },
+        {
+            "infinitive": [
+                "to drink",
+                "trinken"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I drink",
+                    "trinke"
+                ],
+                "du": [
+                    "you drink",
+                    "trinkst"
+                ],
+                "er/sie/es": [
+                    "he/she/it drinks",
+                    "trinkt"
+                ],
+                "wir": [
+                    "we drink",
+                    "trinken"
+                ],
+                "ihr": [
+                    "you all drink",
+                    "trinkt"
+                ],
+                "sie": [
+                    "they drink",
+                    "trinken"
+                ]
+            },
+            "past_participle": [
+                "drunk",
+                "getrunken"
+            ],
+            "examples": [
+                [
+                    "She has drunk water.",
+                    "Sie hat Wasser getrunken."
+                ],
+                [
+                    "You have drunk coffee.",
+                    "Du hast Kaffee getrunken."
+                ],
+                [
+                    "He has drunk beer.",
+                    "Er hat Bier getrunken."
+                ],
+                [
+                    "I drink milk for breakfast.",
+                    "Ich trinke Milch zum Frühstück."
+                ],
+                [
+                    "We drink wine with dinner.",
+                    "Wir trinken Wein zum Abendessen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to read",
+                "lesen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I read",
+                    "lese"
+                ],
+                "du": [
+                    "you read",
+                    "liest"
+                ],
+                "er/sie/es": [
+                    "he/she/it reads",
+                    "liest"
+                ],
+                "wir": [
+                    "we read",
+                    "lesen"
+                ],
+                "ihr": [
+                    "you all read",
+                    "lest"
+                ],
+                "sie": [
+                    "they read",
+                    "lesen"
+                ]
+            },
+            "past_participle": [
+                "read",
+                "gelesen"
+            ],
+            "examples": [
+                [
+                    "He has read a book.",
+                    "Er hat ein Buch gelesen."
+                ],
+                [
+                    "You have read the newspaper.",
+                    "Du hast die Zeitung gelesen."
+                ],
+                [
+                    "I have read the novel.",
+                    "Ich habe den Roman gelesen."
+                ],
+                [
+                    "She likes to read poems.",
+                    "Sie liest gerne Gedichte."
+                ],
+                [
+                    "We read every evening before going to bed.",
+                    "Wir lesen jeden Abend vor dem Schlafengehen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to write",
+                "schreiben"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I write",
+                    "schreibe"
+                ],
+                "du": [
+                    "you write",
+                    "schreibst"
+                ],
+                "er/sie/es": [
+                    "he/she/it writes",
+                    "schreibt"
+                ],
+                "wir": [
+                    "we write",
+                    "schreiben"
+                ],
+                "ihr": [
+                    "you all write",
+                    "schreibt"
+                ],
+                "sie": [
+                    "they write",
+                    "schreiben"
+                ]
+            },
+            "past_participle": [
+                "written",
+                "geschrieben"
+            ],
+            "examples": [
+                [
+                    "She has written a letter.",
+                    "Sie hat einen Brief geschrieben."
+                ],
+                [
+                    "We have written an essay.",
+                    "Wir haben einen Aufsatz geschrieben."
+                ],
+                [
+                    "He has written a book.",
+                    "Er hat ein Buch geschrieben."
+                ],
+                [
+                    "I often write in my diary.",
+                    "Ich schreibe oft Tagebuch."
+                ],
+                [
+                    "You write very beautiful poems.",
+                    "Du schreibst sehr schöne Gedichte."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to speak",
+                "sprechen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I speak",
+                    "spreche"
+                ],
+                "du": [
+                    "you speak",
+                    "sprichst"
+                ],
+                "er/sie/es": [
+                    "he/she/it speaks",
+                    "spricht"
+                ],
+                "wir": [
+                    "we speak",
+                    "sprechen"
+                ],
+                "ihr": [
+                    "you all speak",
+                    "sprecht"
+                ],
+                "sie": [
+                    "they speak",
+                    "sprechen"
+                ]
+            },
+            "past_participle": [
+                "spoken",
+                "gesprochen"
+            ],
+            "examples": [
+                [
+                    "I have spoken with my friend.",
+                    "Ich habe mit meinem Freund gesprochen."
+                ],
+                [
+                    "He has spoken German.",
+                    "Er hat Deutsch gesprochen."
+                ],
+                [
+                    "You have spoken English very well.",
+                    "Du hast sehr gut Englisch gesprochen."
+                ],
+                [
+                    "We often speak about politics.",
+                    "Wir sprechen oft über Politik."
+                ],
+                [
+                    "She speaks French fluently.",
+                    "Sie spricht fließend Französisch."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to listen/hear",
+                "hören"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I listen/hear",
+                    "höre"
+                ],
+                "du": [
+                    "you listen/hear",
+                    "hörst"
+                ],
+                "er/sie/es": [
+                    "he/she/it listens/hears",
+                    "hört"
+                ],
+                "wir": [
+                    "we listen/hear",
+                    "hören"
+                ],
+                "ihr": [
+                    "you all listen/hear",
+                    "hört"
+                ],
+                "sie": [
+                    "they listen/hear",
+                    "hören"
+                ]
+            },
+            "past_participle": [
+                "listened/heard",
+                "gehört"
+            ],
+            "examples": [
+                [
+                    "I have listened to music.",
+                    "Ich habe Musik gehört."
+                ],
+                [
+                    "You have heard the noise.",
+                    "Du hast das Geräusch gehört."
+                ],
+                [
+                    "He has not listened.",
+                    "Er hat nicht zugehört."
+                ],
+                [
+                    "We like to listen to podcasts.",
+                    "Wir hören gerne Podcasts."
+                ],
+                [
+                    "She listens very attentively.",
+                    "Sie hört sehr aufmerksam zu."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to make/do",
+                "machen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I make/do",
+                    "mache"
+                ],
+                "du": [
+                    "you make/do",
+                    "machst"
+                ],
+                "er/sie/es": [
+                    "he/she/it makes/does",
+                    "macht"
+                ],
+                "wir": [
+                    "we make/do",
+                    "machen"
+                ],
+                "ihr": [
+                    "you all make/do",
+                    "macht"
+                ],
+                "sie": [
+                    "they make/do",
+                    "machen"
+                ]
+            },
+            "past_participle": [
+                "made/done",
+                "gemacht"
+            ],
+            "examples": [
+                [
+                    "I make breakfast every morning.",
+                    "Ich mache jeden Morgen Frühstück."
+                ],
+                [
+                    "You make the bed.",
+                    "Du machst das Bett."
+                ],
+                [
+                    "She does her homework.",
+                    "Sie macht ihre Hausaufgaben."
+                ],
+                [
+                    "He has made a decision.",
+                    "Er hat eine Entscheidung gemacht."
+                ],
+                [
+                    "We have done our work.",
+                    "Wir haben unsere Arbeit gemacht."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to pay",
+                "bezahlen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I pay",
+                    "bezahle"
+                ],
+                "du": [
+                    "you pay",
+                    "bezahlst"
+                ],
+                "er/sie/es": [
+                    "he/she/it pays",
+                    "bezahlt"
+                ],
+                "wir": [
+                    "we pay",
+                    "bezahlen"
+                ],
+                "ihr": [
+                    "you all pay",
+                    "bezahlt"
+                ],
+                "sie": [
+                    "they pay",
+                    "bezahlen"
+                ]
+            },
+            "past_participle": [
+                "paid",
+                "bezahlt"
+            ],
+            "examples": [
+                [
+                    "I pay the bills.",
+                    "Ich bezahle die Rechnungen."
+                ],
+                [
+                    "You pay for the groceries.",
+                    "Du bezahlst für die Lebensmittel."
+                ],
+                [
+                    "He pays the rent.",
+                    "Er bezahlt die Miete."
+                ],
+                [
+                    "She has paid the fee.",
+                    "Sie hat die Gebühr bezahlt."
+                ],
+                [
+                    "We have paid the ticket.",
+                    "Wir haben das Ticket bezahlt."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to cook",
+                "kochen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I cook",
+                    "koche"
+                ],
+                "du": [
+                    "you cook",
+                    "kochst"
+                ],
+                "er/sie/es": [
+                    "he/she/it cooks",
+                    "kocht"
+                ],
+                "wir": [
+                    "we cook",
+                    "kochen"
+                ],
+                "ihr": [
+                    "you all cook",
+                    "kocht"
+                ],
+                "sie": [
+                    "they cook",
+                    "kochen"
+                ]
+            },
+            "past_participle": [
+                "cooked",
+                "gekocht"
+            ],
+            "examples": [
+                [
+                    "I cook dinner every evening.",
+                    "Ich koche jeden Abend Abendessen."
+                ],
+                [
+                    "You cook delicious meals.",
+                    "Du kochst leckere Mahlzeiten."
+                ],
+                [
+                    "She cooks for her family.",
+                    "Sie kocht für ihre Familie."
+                ],
+                [
+                    "He has cooked a special dish.",
+                    "Er hat ein besonderes Gericht gekocht."
+                ],
+                [
+                    "We have cooked together.",
+                    "Wir haben zusammen gekocht."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to learn",
+                "lernen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I learn",
+                    "lerne"
+                ],
+                "du": [
+                    "you learn",
+                    "lernst"
+                ],
+                "er/sie/es": [
+                    "he/she/it learns",
+                    "lernt"
+                ],
+                "wir": [
+                    "we learn",
+                    "lernen"
+                ],
+                "ihr": [
+                    "you all learn",
+                    "lernt"
+                ],
+                "sie": [
+                    "they learn",
+                    "lernen"
+                ]
+            },
+            "past_participle": [
+                "learned",
+                "gelernt"
+            ],
+            "examples": [
+                [
+                    "I learn German.",
+                    "Ich lerne Deutsch."
+                ],
+                [
+                    "You learn quickly.",
+                    "Du lernst schnell."
+                ],
+                [
+                    "He learns new things every day.",
+                    "Er lernt jeden Tag neue Dinge."
+                ],
+                [
+                    "She has learned a lot.",
+                    "Sie hat viel gelernt."
+                ],
+                [
+                    "We have learned together.",
+                    "Wir haben zusammen gelernt."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to come",
+                "kommen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I come",
+                    "komme"
+                ],
+                "du": [
+                    "you come",
+                    "kommst"
+                ],
+                "er/sie/es": [
+                    "he/she/it comes",
+                    "kommt"
+                ],
+                "wir": [
+                    "we come",
+                    "kommen"
+                ],
+                "ihr": [
+                    "you all come",
+                    "kommt"
+                ],
+                "sie": [
+                    "they come",
+                    "kommen"
+                ]
+            },
+            "past_participle": [
+                "come",
+                "gekommen"
+            ],
+            "examples": [
+                [
+                    "I come to the office every day.",
+                    "Ich komme jeden Tag ins Büro."
+                ],
+                [
+                    "You come to school by bus.",
+                    "Du kommst mit dem Bus zur Schule."
+                ],
+                [
+                    "We come to the meeting.",
+                    "Wir kommen zur Besprechung."
+                ],
+                [
+                    "They come to visit us.",
+                    "Sie kommen uns besuchen."
+                ],
+                [
+                    "He has come to the party.",
+                    "Er ist zur Party gekommen."
+                ],
+                [
+                    "We have come to the conference.",
+                    "Wir sind zur Konferenz gekommen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to bring",
+                "bringen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I bring",
+                    "bringe"
+                ],
+                "du": [
+                    "you bring",
+                    "bringst"
+                ],
+                "er/sie/es": [
+                    "he/she/it brings",
+                    "bringt"
+                ],
+                "wir": [
+                    "we bring",
+                    "bringen"
+                ],
+                "ihr": [
+                    "you all bring",
+                    "bringt"
+                ],
+                "sie": [
+                    "they bring",
+                    "bringen"
+                ]
+            },
+            "past_participle": [
+                "brought",
+                "gebracht"
+            ],
+            "examples": [
+                [
+                    "I bring my lunch to work.",
+                    "Ich bringe mein Mittagessen zur Arbeit."
+                ],
+                [
+                    "You bring your friend to the party.",
+                    "Du bringst deinen Freund zur Party."
+                ],
+                [
+                    "We bring snacks to the picnic.",
+                    "Wir bringen Snacks zum Picknick."
+                ],
+                [
+                    "They bring gifts to the celebration.",
+                    "Sie bringen Geschenke zur Feier."
+                ],
+                [
+                    "She has brought a gift.",
+                    "Sie hat ein Geschenk gebracht."
+                ],
+                [
+                    "We have brought the books.",
+                    "Wir haben die Bücher gebracht."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to take",
+                "nehmen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I take",
+                    "nehme"
+                ],
+                "du": [
+                    "you take",
+                    "nimmst"
+                ],
+                "er/sie/es": [
+                    "he/she/it takes",
+                    "nimmt"
+                ],
+                "wir": [
+                    "we take",
+                    "nehmen"
+                ],
+                "ihr": [
+                    "you all take",
+                    "nehmt"
+                ],
+                "sie": [
+                    "they take",
+                    "nehmen"
+                ]
+            },
+            "past_participle": [
+                "taken",
+                "genommen"
+            ],
+            "examples": [
+                [
+                    "I take the bus to work.",
+                    "Ich nehme den Bus zur Arbeit."
+                ],
+                [
+                    "You take a book from the shelf.",
+                    "Du nimmst ein Buch vom Regal."
+                ],
+                [
+                    "We take our time.",
+                    "Wir nehmen uns Zeit."
+                ],
+                [
+                    "They take their dog for a walk.",
+                    "Sie nehmen ihren Hund spazieren."
+                ],
+                [
+                    "He has taken a break.",
+                    "Er hat eine Pause genommen."
+                ],
+                [
+                    "We have taken the wrong path.",
+                    "Wir haben den falschen Weg genommen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to find",
+                "finden"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I find",
+                    "finde"
+                ],
+                "du": [
+                    "you find",
+                    "findest"
+                ],
+                "er/sie/es": [
+                    "he/she/it finds",
+                    "findet"
+                ],
+                "wir": [
+                    "we find",
+                    "finden"
+                ],
+                "ihr": [
+                    "you all find",
+                    "findet"
+                ],
+                "sie": [
+                    "they find",
+                    "finden"
+                ]
+            },
+            "past_participle": [
+                "found",
+                "gefunden"
+            ],
+            "examples": [
+                [
+                    "I find my keys.",
+                    "Ich finde meine Schlüssel."
+                ],
+                [
+                    "You find the solution.",
+                    "Du findest die Lösung."
+                ],
+                [
+                    "We find it interesting.",
+                    "Wir finden es interessant."
+                ],
+                [
+                    "They find the best deals.",
+                    "Sie finden die besten Angebote."
+                ],
+                [
+                    "He has found his phone.",
+                    "Er hat sein Telefon gefunden."
+                ],
+                [
+                    "We have found the answer.",
+                    "Wir haben die Antwort gefunden."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to play",
+                "spielen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I play",
+                    "spiele"
+                ],
+                "du": [
+                    "you play",
+                    "spielst"
+                ],
+                "er/sie/es": [
+                    "he/she/it plays",
+                    "spielt"
+                ],
+                "wir": [
+                    "we play",
+                    "spielen"
+                ],
+                "ihr": [
+                    "you all play",
+                    "spielt"
+                ],
+                "sie": [
+                    "they play",
+                    "spielen"
+                ]
+            },
+            "past_participle": [
+                "played",
+                "gespielt"
+            ],
+            "examples": [
+                [
+                    "I play soccer every weekend.",
+                    "Ich spiele jedes Wochenende Fußball."
+                ],
+                [
+                    "You play the piano beautifully.",
+                    "Du spielst wunderschön Klavier."
+                ],
+                [
+                    "We play board games together.",
+                    "Wir spielen zusammen Brettspiele."
+                ],
+                [
+                    "They play in the park.",
+                    "Sie spielen im Park."
+                ],
+                [
+                    "He has played the violin.",
+                    "Er hat die Geige gespielt."
+                ],
+                [
+                    "We have played together.",
+                    "Wir haben zusammen gespielt."
+                ]
+            ]
         }
     ]
 }
