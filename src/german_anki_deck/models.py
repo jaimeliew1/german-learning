@@ -51,3 +51,32 @@ class GermanVerbs(BaseModel):
             notes.extend(verb.anki_notes())
 
         return notes
+
+
+class GermanNoun(BaseModel):
+    noun: tuple[str, str]
+    examples: list[tuple[str, str]] = []
+
+    def anki_notes(self) -> list[genanki.Note]:
+        notes = []
+
+        notes.append(genanki.Note(model=genanki.BASIC_MODEL, fields=self.noun))
+
+        # examples
+        for english, german in self.examples:
+            notes.append(
+                genanki.Note(model=genanki.BASIC_MODEL, fields=(english, german))
+            )
+
+        return notes
+
+
+class GermanNouns(BaseModel):
+    nouns: list[GermanNoun]
+
+    def anki_notes(self) -> list[genanki.Note]:
+        notes = []
+        for noun in self.nouns:
+            notes.extend(noun.anki_notes())
+
+        return notes

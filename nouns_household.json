@@ -1,0 +1,756 @@
+{
+    "nouns": [
+        {
+            "noun": [
+                "washing machine",
+                "Waschmaschine"
+            ],
+            "examples": [
+                [
+                    "I need to do laundry using the washing machine.",
+                    "Ich muss Wäsche mit der Waschmaschine waschen."
+                ],
+                [
+                    "The washing machine is in the basement.",
+                    "Die Waschmaschine steht im Keller."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "dining table",
+                "Esstisch"
+            ],
+            "examples": [
+                [
+                    "We eat dinner at the dining table.",
+                    "Wir essen am Esstisch zu Abend."
+                ],
+                [
+                    "The dining table is made of wood.",
+                    "Der Esstisch ist aus Holz."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "dining room chairs",
+                "Esszimmerstühle"
+            ],
+            "examples": [
+                [
+                    "We have six dining room chairs.",
+                    "Wir haben sechs Esszimmerstühle."
+                ],
+                [
+                    "The dining room chairs are very comfortable.",
+                    "Die Esszimmerstühle sind sehr bequem."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "sofa",
+                "Sofa"
+            ],
+            "examples": [
+                [
+                    "The sofa is very comfortable.",
+                    "Das Sofa ist sehr bequem."
+                ],
+                [
+                    "We bought a new sofa.",
+                    "Wir haben ein neues Sofa gekauft."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "wardrobe",
+                "Kleiderschrank"
+            ],
+            "examples": [
+                [
+                    "I keep my clothes in the wardrobe.",
+                    "Ich bewahre meine Kleidung im Kleiderschrank auf."
+                ],
+                [
+                    "The wardrobe is in the bedroom.",
+                    "Der Kleiderschrank steht im Schlafzimmer."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "desk chair",
+                "Schreibtischstuhl"
+            ],
+            "examples": [
+                [
+                    "I sit on my desk chair while working.",
+                    "Ich sitze auf meinem Schreibtischstuhl während ich arbeite."
+                ],
+                [
+                    "The desk chair is adjustable.",
+                    "Der Schreibtischstuhl ist verstellbar."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "balcony chairs",
+                "Balkonstühle"
+            ],
+            "examples": [
+                [
+                    "We relax on the balcony chairs.",
+                    "Wir entspannen auf den Balkonstühlen."
+                ],
+                [
+                    "The balcony chairs are made of metal.",
+                    "Die Balkonstühle sind aus Metall."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "balcony string lights",
+                "Balkonlichterkette"
+            ],
+            "examples": [
+                [
+                    "The balcony string lights create a cozy atmosphere.",
+                    "Die Balkonlichterkette schafft eine gemütliche Atmosphäre."
+                ],
+                [
+                    "We hang the balcony string lights in the summer.",
+                    "Wir hängen die Balkonlichterkette im Sommer auf."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "refrigerator",
+                "Kühlschrank"
+            ],
+            "examples": [
+                [
+                    "The refrigerator is full of food.",
+                    "Der Kühlschrank ist voller Lebensmittel."
+                ],
+                [
+                    "We need to clean the refrigerator.",
+                    "Wir müssen den Kühlschrank reinigen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "freezer",
+                "Gefrierschrank"
+            ],
+            "examples": [
+                [
+                    "The freezer keeps the food frozen.",
+                    "Der Gefrierschrank hält das Essen gefroren."
+                ],
+                [
+                    "We store ice cream in the freezer.",
+                    "Wir lagern Eiscreme im Gefrierschrank."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "stove",
+                "Herd"
+            ],
+            "examples": [
+                [
+                    "She cooked dinner on the stove.",
+                    "Sie kochte das Abendessen auf dem Herd."
+                ],
+                [
+                    "The stove has four burners.",
+                    "Der Herd hat vier Kochplatten."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "oven",
+                "Backofen"
+            ],
+            "examples": [
+                [
+                    "The cake is baking in the oven.",
+                    "Der Kuchen backt im Backofen."
+                ],
+                [
+                    "Preheat the oven to 180 degrees.",
+                    "Heize den Backofen auf 180 Grad vor."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "microwave",
+                "Mikrowelle"
+            ],
+            "examples": [
+                [
+                    "Heat the leftovers in the microwave.",
+                    "Erwärme die Reste in der Mikrowelle."
+                ],
+                [
+                    "The microwave is above the counter.",
+                    "Die Mikrowelle ist über der Theke."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "dishwasher",
+                "Geschirrspüler"
+            ],
+            "examples": [
+                [
+                    "Load the dirty dishes into the dishwasher.",
+                    "Lade das schmutzige Geschirr in den Geschirrspüler."
+                ],
+                [
+                    "The dishwasher is running.",
+                    "Der Geschirrspüler läuft."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "toaster",
+                "Toaster"
+            ],
+            "examples": [
+                [
+                    "Make toast in the toaster.",
+                    "Mache Toast im Toaster."
+                ],
+                [
+                    "The toaster has a crumb tray.",
+                    "Der Toaster hat eine Krümelschublade."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "coffee maker",
+                "Kaffeemaschine"
+            ],
+            "examples": [
+                [
+                    "Brew coffee in the coffee maker.",
+                    "Koche Kaffee in der Kaffeemaschine."
+                ],
+                [
+                    "The coffee maker is programmable.",
+                    "Die Kaffeemaschine ist programmierbar."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "kettle",
+                "Wasserkocher"
+            ],
+            "examples": [
+                [
+                    "Boil water in the kettle.",
+                    "Koche Wasser im Wasserkocher."
+                ],
+                [
+                    "The kettle is electric.",
+                    "Der Wasserkocher ist elektrisch."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "sink",
+                "Spüle"
+            ],
+            "examples": [
+                [
+                    "Wash the dishes in the sink.",
+                    "Wasche das Geschirr in der Spüle."
+                ],
+                [
+                    "The sink is stainless steel.",
+                    "Die Spüle ist aus Edelstahl."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "kitchen table",
+                "Küchentisch"
+            ],
+            "examples": [
+                [
+                    "We have breakfast at the kitchen table.",
+                    "Wir frühstücken am Küchentisch."
+                ],
+                [
+                    "The kitchen table seats four.",
+                    "Der Küchentisch bietet Platz für vier Personen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "kitchen cabinets",
+                "Küchenschränke"
+            ],
+            "examples": [
+                [
+                    "Store the dishes in the kitchen cabinets.",
+                    "Bewahre das Geschirr in den Küchenschränken auf."
+                ],
+                [
+                    "The kitchen cabinets are white.",
+                    "Die Küchenschränke sind weiß."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "carpet",
+                "Teppich"
+            ],
+            "examples": [
+                [
+                    "The carpet is soft and fluffy.",
+                    "Der Teppich ist weich und flauschig."
+                ],
+                [
+                    "We vacuum the carpet every week.",
+                    "Wir saugen den Teppich jede Woche."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "curtains",
+                "Vorhänge"
+            ],
+            "examples": [
+                [
+                    "Close the curtains at night.",
+                    "Ziehe die Vorhänge nachts zu."
+                ],
+                [
+                    "The curtains are blue.",
+                    "Die Vorhänge sind blau."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "nightstand",
+                "Nachttisch"
+            ],
+            "examples": [
+                [
+                    "I keep a lamp on my nightstand.",
+                    "Ich habe eine Lampe auf meinem Nachttisch."
+                ],
+                [
+                    "The nightstand has a drawer.",
+                    "Der Nachttisch hat eine Schublade."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "bed",
+                "Bett"
+            ],
+            "examples": [
+                [
+                    "She sleeps in a king-sized bed.",
+                    "Sie schläft in einem Kingsize-Bett."
+                ],
+                [
+                    "The bed has a wooden frame.",
+                    "Das Bett hat einen Holzrahmen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "pillow",
+                "Kopfkissen"
+            ],
+            "examples": [
+                [
+                    "The pillow is very soft.",
+                    "Das Kopfkissen ist sehr weich."
+                ],
+                [
+                    "She uses two pillows.",
+                    "Sie benutzt zwei Kopfkissen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "blanket",
+                "Decke"
+            ],
+            "examples": [
+                [
+                    "The blanket keeps me warm.",
+                    "Die Decke hält mich warm."
+                ],
+                [
+                    "We have a wool blanket.",
+                    "Wir haben eine Wolldecke."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "desk",
+                "Schreibtisch"
+            ],
+            "examples": [
+                [
+                    "He works at his desk.",
+                    "Er arbeitet an seinem Schreibtisch."
+                ],
+                [
+                    "The desk has a lot of drawers.",
+                    "Der Schreibtisch hat viele Schubladen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "bookshelf",
+                "Bücherregal"
+            ],
+            "examples": [
+                [
+                    "The bookshelf is full of books.",
+                    "Das Bücherregal ist voll mit Büchern."
+                ],
+                [
+                    "We need a new bookshelf.",
+                    "Wir brauchen ein neues Bücherregal."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "television",
+                "Fernseher"
+            ],
+            "examples": [
+                [
+                    "They watched a movie on the television.",
+                    "Sie haben einen Film im Fernsehen geschaut."
+                ],
+                [
+                    "The television is mounted on the wall.",
+                    "Der Fernseher ist an der Wand montiert."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "remote control",
+                "Fernbedienung"
+            ],
+            "examples": [
+                [
+                    "Change the channel with the remote control.",
+                    "Wechsle den Kanal mit der Fernbedienung."
+                ],
+                [
+                    "The remote control is on the table.",
+                    "Die Fernbedienung liegt auf dem Tisch."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "floor lamp",
+                "Stehlampe"
+            ],
+            "examples": [
+                [
+                    "The floor lamp provides good lighting.",
+                    "Die Stehlampe sorgt für gutes Licht."
+                ],
+                [
+                    "We placed the floor lamp in the corner.",
+                    "Wir haben die Stehlampe in die Ecke gestellt."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "table lamp",
+                "Tischlampe"
+            ],
+            "examples": [
+                [
+                    "The table lamp is on the nightstand.",
+                    "Die Tischlampe steht auf dem Nachttisch."
+                ],
+                [
+                    "The table lamp has a dimmer switch.",
+                    "Die Tischlampe hat einen Dimmschalter."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "mirror",
+                "Spiegel"
+            ],
+            "examples": [
+                [
+                    "She looks in the mirror every morning.",
+                    "Sie schaut jeden Morgen in den Spiegel."
+                ],
+                [
+                    "The mirror is above the sink.",
+                    "Der Spiegel ist über dem Waschbecken."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "iron",
+                "Bügeleisen"
+            ],
+            "examples": [
+                [
+                    "Use the iron to remove wrinkles from clothes.",
+                    "Benutze das Bügeleisen, um Falten aus der Kleidung zu entfernen."
+                ],
+                [
+                    "The iron is on the ironing board.",
+                    "Das Bügeleisen steht auf dem Bügelbrett."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "ironing board",
+                "Bügelbrett"
+            ],
+            "examples": [
+                [
+                    "Set up the ironing board in the laundry room.",
+                    "Stelle das Bügelbrett im Waschraum auf."
+                ],
+                [
+                    "The ironing board is foldable.",
+                    "Das Bügelbrett ist klappbar."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "washbasin",
+                "Waschbecken"
+            ],
+            "examples": [
+                [
+                    "Wash your hands in the washbasin.",
+                    "Wasche deine Hände im Waschbecken."
+                ],
+                [
+                    "The washbasin is made of porcelain.",
+                    "Das Waschbecken ist aus Porzellan."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "bathtub",
+                "Badewanne"
+            ],
+            "examples": [
+                [
+                    "She enjoys a bath in the bathtub.",
+                    "Sie genießt ein Bad in der Badewanne."
+                ],
+                [
+                    "The bathtub is large and white.",
+                    "Die Badewanne ist groß und weiß."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "shower",
+                "Dusche"
+            ],
+            "examples": [
+                [
+                    "He takes a shower every morning.",
+                    "Er duscht jeden Morgen."
+                ],
+                [
+                    "The shower has a glass door.",
+                    "Die Dusche hat eine Glastür."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "towel",
+                "Handtuch"
+            ],
+            "examples": [
+                [
+                    "Dry your hands with a towel.",
+                    "Trockne deine Hände mit einem Handtuch."
+                ],
+                [
+                    "The towels are hanging on the rack.",
+                    "Die Handtücher hängen am Gestell."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "laundry basket",
+                "Wäschekorb"
+            ],
+            "examples": [
+                [
+                    "Put the dirty clothes in the laundry basket.",
+                    "Lege die schmutzige Wäsche in den Wäschekorb."
+                ],
+                [
+                    "The laundry basket is full.",
+                    "Der Wäschekorb ist voll."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "vacuum cleaner",
+                "Staubsauger"
+            ],
+            "examples": [
+                [
+                    "She uses the vacuum cleaner to clean the carpet.",
+                    "Sie benutzt den Staubsauger, um den Teppich zu reinigen."
+                ],
+                [
+                    "The vacuum cleaner is in the closet.",
+                    "Der Staubsauger steht im Schrank."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "broom",
+                "Besen"
+            ],
+            "examples": [
+                [
+                    "Sweep the floor with a broom.",
+                    "Fegen Sie den Boden mit einem Besen."
+                ],
+                [
+                    "The broom is in the corner.",
+                    "Der Besen steht in der Ecke."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "trash can",
+                "Mülltonne"
+            ],
+            "examples": [
+                [
+                    "Throw the trash in the trash can.",
+                    "Werfen Sie den Müll in die Mülltonne."
+                ],
+                [
+                    "The trash can is outside.",
+                    "Die Mülltonne steht draußen."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "duster",
+                "Staubtuch"
+            ],
+            "examples": [
+                [
+                    "Dust the furniture with a duster.",
+                    "Stauben Sie die Möbel mit einem Staubtuch ab."
+                ],
+                [
+                    "The duster is in the cleaning closet.",
+                    "Das Staubtuch ist im Putzschrank."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "garden furniture",
+                "Gartenmöbel"
+            ],
+            "examples": [
+                [
+                    "We relax on the garden furniture.",
+                    "Wir entspannen uns auf den Gartenmöbeln."
+                ],
+                [
+                    "The garden furniture is weather-resistant.",
+                    "Die Gartenmöbel sind wetterfest."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "lawn mower",
+                "Rasenmäher"
+            ],
+            "examples": [
+                [
+                    "He mows the lawn with the lawn mower.",
+                    "Er mäht den Rasen mit dem Rasenmäher."
+                ],
+                [
+                    "The lawn mower is in the garage.",
+                    "Der Rasenmäher steht in der Garage."
+                ]
+            ]
+        },
+        {
+            "noun": [
+                "grill",
+                "Grill"
+            ],
+            "examples": [
+                [
+                    "We cook burgers on the grill.",
+                    "Wir grillen Burger auf dem Grill."
+                ],
+                [
+                    "The grill is on the patio.",
+                    "Der Grill steht auf der Terrasse."
+                ]
+            ]
+        }
+    ]
+}
