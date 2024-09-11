@@ -2,8 +2,10 @@ from pathlib import Path
 
 import genanki
 from rich import print
+import random
 
 from .models import GermanNouns, GermanVerbs
+from .utils import int_to_german_spelling
 
 IN_FN = Path(__file__).parent.parent.parent / "verbs.json"
 NOUN_FN = Path(__file__).parent.parent.parent / "nouns_household.json"
@@ -41,3 +43,13 @@ def make_noun_deck():
         my_deck.add_note(note)
 
     genanki.Package(my_deck).write_to_file("output_nouns_household.apkg")
+
+
+
+def test_numbers():
+    while True:
+        x = random.randint(0, 100)
+        print(x)
+        input()
+        print(int_to_german_spelling(x))
+        

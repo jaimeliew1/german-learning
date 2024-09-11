@@ -15,6 +15,7 @@ requires-python = ">= 3.8"
 
 [project.scripts]
 "german-anki-deck" = "german_anki_deck:main"
+"german-numbers" = "german_anki_deck.cli:test_numbers"
 
 [build-system]
 requires = ["hatchling"]
