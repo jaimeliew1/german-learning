@@ -1527,6 +1527,552 @@
                     "Wir haben zusammen gespielt."
                 ]
             ]
+        },
+        {
+            "infinitive": [
+                "to be",
+                "sein"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I am",
+                    "bin"
+                ],
+                "du": [
+                    "you are",
+                    "bist"
+                ],
+                "er/sie/es": [
+                    "he/she/it is",
+                    "ist"
+                ],
+                "wir": [
+                    "we are",
+                    "sind"
+                ],
+                "ihr": [
+                    "you all are",
+                    "seid"
+                ],
+                "sie": [
+                    "they are",
+                    "sind"
+                ]
+            },
+            "past_participle": [
+                "been",
+                "gewesen"
+            ],
+            "examples": [
+                [
+                    "I am happy.",
+                    "Ich bin glücklich."
+                ],
+                [
+                    "You are my friend.",
+                    "Du bist mein Freund."
+                ],
+                [
+                    "He is tall.",
+                    "Er ist groß."
+                ],
+                [
+                    "She has been to Paris.",
+                    "Sie ist in Paris gewesen."
+                ],
+                [
+                    "We are at home.",
+                    "Wir sind zu Hause."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to be able to/can",
+                "können"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I can",
+                    "kann"
+                ],
+                "du": [
+                    "you can",
+                    "kannst"
+                ],
+                "er/sie/es": [
+                    "he/she/it can",
+                    "kann"
+                ],
+                "wir": [
+                    "we can",
+                    "können"
+                ],
+                "ihr": [
+                    "you all can",
+                    "könnt"
+                ],
+                "sie": [
+                    "they can",
+                    "können"
+                ]
+            },
+            "past_participle": [
+                "been able to",
+                "gekonnt"
+            ],
+            "examples": [
+                [
+                    "I can speak German.",
+                    "Ich kann Deutsch sprechen."
+                ],
+                [
+                    "You can come with me.",
+                    "Du kannst mit mir kommen."
+                ],
+                [
+                    "He can play the guitar.",
+                    "Er kann Gitarre spielen."
+                ],
+                [
+                    "She has been able to solve the problem.",
+                    "Sie hat das Problem lösen können."
+                ],
+                [
+                    "We can swim in the lake.",
+                    "Wir können im See schwimmen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to want",
+                "wollen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I want",
+                    "will"
+                ],
+                "du": [
+                    "you want",
+                    "willst"
+                ],
+                "er/sie/es": [
+                    "he/she/it wants",
+                    "will"
+                ],
+                "wir": [
+                    "we want",
+                    "wollen"
+                ],
+                "ihr": [
+                    "you all want",
+                    "wollt"
+                ],
+                "sie": [
+                    "they want",
+                    "wollen"
+                ]
+            },
+            "past_participle": [
+                "wanted",
+                "gewollt"
+            ],
+            "examples": [
+                [
+                    "I want to go to the beach.",
+                    "Ich will zum Strand gehen."
+                ],
+                [
+                    "You want to eat pizza.",
+                    "Du willst Pizza essen."
+                ],
+                [
+                    "He wants to buy a new car.",
+                    "Er will ein neues Auto kaufen."
+                ],
+                [
+                    "She has wanted to travel to Japan for a long time.",
+                    "Sie hat schon lange nach Japan reisen wollen."
+                ],
+                [
+                    "We want to learn Spanish.",
+                    "Wir wollen Spanisch lernen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to have to/must",
+                "müssen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I must",
+                    "muss"
+                ],
+                "du": [
+                    "you must",
+                    "musst"
+                ],
+                "er/sie/es": [
+                    "he/she/it must",
+                    "muss"
+                ],
+                "wir": [
+                    "we must",
+                    "müssen"
+                ],
+                "ihr": [
+                    "you all must",
+                    "müsst"
+                ],
+                "sie": [
+                    "they must",
+                    "müssen"
+                ]
+            },
+            "past_participle": [
+                "had to/must",
+                "gemusst"
+            ],
+            "examples": [
+                [
+                    "I have to go to work.",
+                    "Ich muss zur Arbeit gehen."
+                ],
+                [
+                    "You have to study for the exam.",
+                    "Du musst für die Prüfung lernen."
+                ],
+                [
+                    "He has to finish the project by Friday.",
+                    "Er muss das Projekt bis Freitag fertigstellen."
+                ],
+                [
+                    "She had to leave early.",
+                    "Sie musste früh gehen."
+                ],
+                [
+                    "We have to be at the airport by 6am.",
+                    "Wir müssen um 6 Uhr am Flughafen sein."
+                ],
+                [
+                    "I don't have to work today.",
+                    "Ich muss nicht arbeiten heute."
+                ],
+                [
+                    "You don't have to go grocery shopping.",
+                    "Du musst nicht einkaufen gehen."
+                ],
+                [
+                    "I have to (go to the bathroom).",
+                    "Ich muss mal."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to be allowed to/may",
+                "dürfen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I am allowed to/may",
+                    "darf"
+                ],
+                "du": [
+                    "you are allowed to/may",
+                    "darfst"
+                ],
+                "er/sie/es": [
+                    "he/she/it is allowed to/may",
+                    "darf"
+                ],
+                "wir": [
+                    "we are allowed to/may",
+                    "dürfen"
+                ],
+                "ihr": [
+                    "you all are allowed to/may",
+                    "dürft"
+                ],
+                "sie": [
+                    "they are allowed to/may",
+                    "dürfen"
+                ]
+            },
+            "past_participle": [
+                "been allowed to/may",
+                "gedurft"
+            ],
+            "examples": [
+                [
+                    "I am allowed to drive a car.",
+                    "Ich darf Auto fahren."
+                ],
+                [
+                    "You may eat the cake.",
+                    "Du darfst den Kuchen essen."
+                ],
+                [
+                    "He is allowed to stay up late.",
+                    "Er darf lange aufbleiben."
+                ],
+                [
+                    "She has been allowed to take the day off.",
+                    "Sie hat den Tag frei haben dürfen."
+                ],
+                [
+                    "We are allowed to bring our own food to the party.",
+                    "Wir dürfen unser eigenes Essen zur Party mitbringen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to be allowed to/may",
+                "dürfen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I am allowed to/may",
+                    "darf"
+                ],
+                "du": [
+                    "you are not allowed to/may not",
+                    "darfst nicht"
+                ],
+                "er/sie/es": [
+                    "he/she/it is allowed to/may",
+                    "darf"
+                ],
+                "wir": [
+                    "we are not allowed to/may not",
+                    "dürfen nicht"
+                ],
+                "ihr": [
+                    "you all are allowed to/may",
+                    "dürft"
+                ],
+                "sie": [
+                    "they are not allowed to/may not",
+                    "dürfen nicht"
+                ]
+            },
+            "past_participle": [
+                "been allowed to/may not",
+                "nicht gedurft"
+            ],
+            "examples": [
+                [
+                    "I am allowed to bring a friend to the party.",
+                    "Ich darf einen Freund zur Party mitbringen."
+                ],
+                [
+                    "You may not leave the room until the test is over.",
+                    "Du darfst den Raum nicht verlassen, bis die Prüfung vorbei ist."
+                ],
+                [
+                    "He is allowed to take the day off work.",
+                    "Er darf den Tag frei nehmen."
+                ],
+                [
+                    "She has not been allowed to take a vacation this year.",
+                    "Sie hat dieses Jahr nicht Urlaub machen dürfen."
+                ],
+                [
+                    "We are not allowed to use the pool after 10pm.",
+                    "Wir dürfen den Pool nach 22 Uhr nicht benutzen."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to like",
+                "mögen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I like",
+                    "mag"
+                ],
+                "du": [
+                    "you like",
+                    "magst"
+                ],
+                "er/sie/es": [
+                    "he/she/it likes",
+                    "mag"
+                ],
+                "wir": [
+                    "we like",
+                    "mögen"
+                ],
+                "ihr": [
+                    "you all like",
+                    "mögt"
+                ],
+                "sie": [
+                    "they like",
+                    "mögen"
+                ]
+            },
+            "past_participle": [
+                "liked",
+                "gemocht"
+            ],
+            "examples": [
+                [
+                    "I like to read books.",
+                    "Ich mag es, Bücher zu lesen."
+                ],
+                [
+                    "You like pizza, right?",
+                    "Du magst Pizza, oder?"
+                ],
+                [
+                    "He likes to play soccer.",
+                    "Er mag es, Fußball zu spielen."
+                ],
+                [
+                    "She has liked him for a long time.",
+                    "Sie hat ihn schon lange gemocht."
+                ],
+                [
+                    "We like to go hiking in the mountains.",
+                    "Wir mögen es, in den Bergen wandern zu gehen."
+                ],
+                [
+                    "I don't like coffee.",
+                    "Ich mag keinen Kaffee."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to should/must",
+                "sollen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I should/must",
+                    "soll"
+                ],
+                "du": [
+                    "you should/must",
+                    "sollst"
+                ],
+                "er/sie/es": [
+                    "he/she/it should/must",
+                    "soll"
+                ],
+                "wir": [
+                    "we should/must",
+                    "sollen"
+                ],
+                "ihr": [
+                    "you all should/must",
+                    "sollt"
+                ],
+                "sie": [
+                    "they should/must",
+                    "sollen"
+                ]
+            },
+            "past_participle": [
+                "should/must have",
+                "gesollt"
+            ],
+            "examples": [
+                [
+                    "I should call my mother.",
+                    "Ich soll meine Mutter anrufen."
+                ],
+                [
+                    "You should study for the exam.",
+                    "Du solltest für die Prüfung lernen."
+                ],
+                [
+                    "He should go to the doctor.",
+                    "Er soll zum Arzt gehen."
+                ],
+                [
+                    "She should have finished the project by now.",
+                    "Sie hätte das Projekt schon fertig haben sollen."
+                ],
+                [
+                    "We should clean the house before the guests arrive.",
+                    "Wir sollten das Haus putzen, bevor die Gäste kommen."
+                ],
+                [
+                    "Ich soll nicht so viel Zucker essen.",
+                    "I shouldn't eat so much sugar."
+                ]
+            ]
+        },
+        {
+            "infinitive": [
+                "to know",
+                "wissen"
+            ],
+            "conjugations": {
+                "ich": [
+                    "I know",
+                    "weiß"
+                ],
+                "du": [
+                    "you know",
+                    "weißt"
+                ],
+                "er/sie/es": [
+                    "he/she/it knows",
+                    "weiß"
+                ],
+                "wir": [
+                    "we know",
+                    "wissen"
+                ],
+                "ihr": [
+                    "you all know",
+                    "wisst"
+                ],
+                "sie": [
+                    "they know",
+                    "wissen"
+                ]
+            },
+            "past_participle": [
+                "known",
+                "gewusst"
+            ],
+            "examples": [
+                [
+                    "I know how to swim.",
+                    "Ich weiß, wie man schwimmt."
+                ],
+                [
+                    "Do you know the way to the train station?",
+                    "Weißt du, wie man zum Bahnhof kommt?"
+                ],
+                [
+                    "He knows a lot about history.",
+                    "Er weiß viel über Geschichte."
+                ],
+                [
+                    "She has known him for years.",
+                    "Sie kennt ihn seit Jahren."
+                ],
+                [
+                    "We know that the meeting is at 2pm.",
+                    "Wir wissen, dass das Treffen um 14 Uhr ist."
+                ],
+                [
+                    "I don't know where my phone is.",
+                    "Ich weiß nicht, wo mein Handy ist."
+                ]
+            ]
         }
     ]
 }
